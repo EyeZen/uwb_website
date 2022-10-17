@@ -1,16 +1,3 @@
-Start server with: `npm start`
+## Instructions
 
-    
-    
-    
-    
-
-
-
-
-
-
-
-
-    
-    
+- To start development server, run: `npm start`
